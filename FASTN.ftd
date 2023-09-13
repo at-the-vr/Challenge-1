@@ -6,13 +6,10 @@ favicon: /-/at-the-vr.github.io/challenge-1/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fifthtry.github.io/button 
 
 -- fastn.auto-import: at-the-vr.github.io/challenge-1/FASTN/ds
 -- fastn.auto-import: at-the-vr.github.io/challenge-1/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
