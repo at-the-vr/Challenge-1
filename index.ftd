@@ -1,25 +1,27 @@
--- import: fifthtry.github.io/button
+-- import: at-the-vr.github.io/challenge-1/lib
 
--- ds.page:
+-- ftd.column:
+width: fill-container
+height: fill-container
+align-content: center
+background.solid: $theBgColor
 
--- ftd.row:
-spacing.fixed.px: 20
--- button.button: Extra Large Button
-role: primary
-extra-large: true
+-- lib.button:
+theXtralargeButton: Extra Large Button
+thelinkXL: https://fifthtry.github.io/button
+theLargeButton: Large Button
+thelinkL: https://fastn.com/attributes/
+theMediumButton: Medium Button
+thelinkM: https://fastn.com/champion-program/
+theSmallButton: Small Button
+thelinkS: https://fastn.com/figma/
+text-color: $lib.monochrome-dark
+bg-color: $lib.monochrome-light
+border-color: $lib.shadow-color
+hover-shadow: $lib.s
 
--- button.button: Large Button
-role: primary
-large: true
+-- end: ftd.column
 
--- button.button: Medium Button
-role: primary
-medium: true
-
--- button.button: Small Button
-role: primary
-small: true
-
--- end: ftd.row
-
--- end: ds.page
+-- ftd.color theBgColor: 
+light: white 
+dark: #1a1a1a 
